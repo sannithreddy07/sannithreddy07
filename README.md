@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Hybrid Framework for Automation Testing**
 
-- 🌱 I’m currently learning **DevOps, API Rest Assured Framework**
+- 🌱 I’m currently learning **DevOps, Python, AI & API Rest Assured Framework**
 
 - 👯 I’m looking to collaborate on **e-Banking Project**
 
