@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevOps, Python, AI & API Rest Assured Framework**
 
-- 👯 I’m looking to collaborate on **e-Banking Project**
+- 👯 I’m looking to collaborate on **Hybrid Frameworks Projects related to e-commerce/Banking**
 
 - 🤝 I’m looking for help with **API testing with Rest Assured**
 
